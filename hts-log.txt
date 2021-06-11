@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 12 Jun 2021 03:53:29 at https://storiesig.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://storiesig.net/ -O1 "C:\Users\lolet\Desktop\httpsstoriesig\clone" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:53:32	Warning: 	Link https://storiesig.net/privacy not scanned (follow robots meta tag)
+03:53:33	Warning: 	Link https://storiesig.net/status not scanned (follow robots meta tag)
+03:53:33	Warning: 	Link https://storiesig.net/contact not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 seconds : 8 links scanned, 7 files written (326909 bytes overall) [199829 bytes received at 49957 bytes/sec], 189618 bytes transferred using HTTP compression in 7 files, ratio 29%, 2.6 requests per connection
+(No errors, 3 warnings, 0 messages)
